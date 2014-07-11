@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://www.mobbox.cn:80/MMS/content_access.action?k3=b7b7f96996e5453982a81e3722d27118</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://www.mobbox.cn/client/llcx/iphone512.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>http://www.mobbox.cn/client/llcx/iphone57.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.ynzjcx.MobileMarketModify</string>
+				<key>bundle-version</key>
+				<string>2.001.006</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>流量查询</string>
+				<key>title</key>
+				<string>流量查询</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
